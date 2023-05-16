@@ -1,4 +1,3 @@
 #!/bin/bash
 touch \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
-echo -e 'Best School' > "\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)" 
-echo -e "n"
+echo -e "Best School" > "\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)" 
